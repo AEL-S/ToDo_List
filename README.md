@@ -2,6 +2,8 @@
 
 This assigment was completed for the MIT xPro Fullstack Development with MERN certificate program. Provided with starter code for the React ToDo List application, we were asked to add styling to the to-do list.
 
+<img src="ToDo_ListScreenShot.png" alt="Photo of ToDo_List" title="ToDo_List!">
+
 <h2>To run:</h2>
 Everything required to run this project is in this repository. You're welcome to fork and clone this repository, or you can just navigate to: https://ael-s.github.io/ToDo_List/. Click on the to-do items to make them disappear once you're done with the task. Type new tasks into the text field at the bottom. 
 
