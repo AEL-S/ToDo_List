@@ -8,7 +8,8 @@ This assigment was completed for the MIT xPro Fullstack Development with MERN ce
 Everything required to run this project is in this repository. You're welcome to fork and clone this repository, or you can just navigate to: https://ael-s.github.io/ToDo_List/. Click on the to-do items to make them disappear once you're done with the task. Type new tasks into the text field at the bottom. 
 
 <h2>Roadmap of future improvements:</h2>
-I will return to this code at a later date to add a way for the to-do list items to be crossed off the first time they are pressed, and then will disappear if pressed once more. *Note: this was designed to work best on computer, I will eventually work on updating it to be easier to use on mobile devices*
+I will return to this code at a later date to add a way for the to-do list items to be crossed off the first time they are pressed, and then will disappear if pressed once more. 
+*Note: this was designed to work best on computer, I will eventually work on updating it to be easier to use on mobile devices*
 
 <h2>Support:</h2>
 Feel free to message me on LinkedIn (https://www.linkedin.com/in/anna-stegmann-77825b136/) if you have any questions.
